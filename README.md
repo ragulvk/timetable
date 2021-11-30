@@ -80,8 +80,10 @@ Execute the program
 <th>web technology laboratory</th>
 <th>web technology laboratory</th>
 <tr>
+</body>
+</html>
 
 ~~~
-## OUPUT
+## OUTPUT
 ![Github Logo](screenshot.png)
 
