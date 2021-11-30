@@ -85,5 +85,5 @@ Execute the program
 
 ~~~
 ## OUTPUT
-![Github Logo](img.png)
+![Github logo](img.png)
 
