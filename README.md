@@ -87,3 +87,6 @@ Execute the program
 ## OUTPUT
 ![Github logo](img.png)
 
+## VALIDATION RESULT:
+![github logo](timetable.png)
+
